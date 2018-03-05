@@ -11,7 +11,7 @@ import java.io.File;
 
 /*
     Name: Margie Patel and Tijauni Carey
-    Date: 3/05/2018
+    Date: 5/03/2018
     Name of Program: Spam Master 3000
 
     This is the Spam Master 3000 program designed to detect spam e-mail
