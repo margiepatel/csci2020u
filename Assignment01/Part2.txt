@@ -1,0 +1,18 @@
+
+									Improve Spam Detector
+
+We can enhance the spam indicator by performing spell checks. In manyspams, there are a considerable measure of
+spelling errors. For instance, it would check all the spellings of each word in a spam message, and in excess of
+a specific number of words are incorrect, and then it demonstrates that it is a spam message. Performing a spell
+check gives a higher opportunity to discover spam in the messages. (run a spell check on the email prior to
+classification)
+
+We also can enhance the spam indicator by utilizing an alternate probability strategy that can manage the words.
+You can consolidate person probabilities by using p = (p1*p2*p3..pn) / (p1*p2..pn + (1-p1)*(1-p2)....(1-pn).
+
+There are certain words and phrases that make a spam. For instance, emails that contain words such as “free offer”,
+“earn cash today” &amp; “lucky winner of a large sum of money”. These phrases are entitled to being a spam. We would
+be able to notice these phrases present in the email. This is a form of recognition to help improve spam detecting.
+
+Instead of assuming that each word in an email is independent, you can compute the conditional likelihood of words
+occurring in sequence or not.
