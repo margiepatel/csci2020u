@@ -1,8 +1,8 @@
 # Assignment01
-Margie Patel (100622787) &amp; Tijauni Carey (100634432)
+Margie Patel (100622787) and Tijauni Carey (100634432)
 
-Go to https://github.com/margiepatel/csci2020u/tree/master/Assignment01 and then download the 
-repository as a .zip or clone this repository to one of your folders or desktop. Then use a git pull.
+Download this repository as a .zip or clone this repository to one of your folders or desktop. Then
+use a git pull.
 
 To run this program, run Main.java as an initial. This will open up a window for you to chose
 your data. There are different ways you can chose to do this, but to run our program you have to click
