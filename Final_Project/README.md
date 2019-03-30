@@ -1,10 +1,9 @@
 #Login&Groceries billing. 
-1.
+
 Margie Patel, GitHub: margiepatel
 Tijauni Care, GitHub: TjcHD
 
-Summary of Contributions:
-We came about when we thought of merging a login system where you are able to access a grocery billing system like at local grocery store(e.g Nofrills).Tijauni coded for the login window and I did the billing window. Once we were both done that, I did merging for both the windows, so the billing window would only open when the login information is correct. 
+I came about when I thought of merging a login system where you are able to access a grocery billing system like at local grocery store(e.g Nofrills). I made the two seperte systems, the login and billing system. Once I was done, I merged both the windows, so the billing window would only open when the login information is correct. 
 
 2.
 https://github.com/margiepatel/csci2020u
