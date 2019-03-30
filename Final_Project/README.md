@@ -4,8 +4,6 @@
 
 Margie Patel, GitHub: margiepatel
 
-Tijauni Care, GitHub: TjcHD
-
 I came about when I thought of merging a login system where you are able to access a grocery billing system like at local grocery store(e.g Nofrills). I made the two seperte systems, the login and billing system. Once I was done, I merged both the windows, so the billing window would only open when the login information is correct. 
 
 2.
